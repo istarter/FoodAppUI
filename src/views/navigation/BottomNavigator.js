@@ -19,7 +19,7 @@ const BottomNavigator = () => {
           elevation: 0,
         },
         showLabel: false,
-        activeTintColor: COLORS.primary,
+        tabBarActiveTintColor: COLORS.primary,
       }}>
       <Tab.Screen
         name="HomeScreen"
